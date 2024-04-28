@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Undead Secrets'),
+    'name' => env('APP_NAME', 'Undead-Secrets'),
 
     /*
     |--------------------------------------------------------------------------
