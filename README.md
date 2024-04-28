@@ -1,4 +1,6 @@
-![Logo Undead Secrets](https://i.imgur.com/RCB7Owb.png)
+<p align="center">
+  <img src="https://i.imgur.com/RCB7Owb.png" alt="Undead Secrets Logo"/>
+</p>
 
 ## About Undead Secrets
 
