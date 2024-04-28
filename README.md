@@ -1,4 +1,4 @@
-![Logo Undead Secrets](https://i.imgur.com/lwJtwYi.png)
+![Logo Undead Secrets](https://i.imgur.com/RCB7Owb.png)
 
 ## About Undead Secrets
 
