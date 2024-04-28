@@ -14,8 +14,9 @@ return new class extends Migration
         Schema::create('vanguard', function (Blueprint $table) {
             $table->id();
             $table->string('nombre');
-            $table->string('descripcion');
-            $table->string('imagen');
+            $table->string('descripcion')->nullable();
+            $table->string('descripcion_general')->nullable();
+            $table->string('imagen')->nullable();
             $table->timestamps();
         });
     }
